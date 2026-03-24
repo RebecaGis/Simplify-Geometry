@@ -88,8 +88,8 @@ def main():
         <strong>📋 Formatos aceitos e dicas:</strong><br>
         • Envie um arquivo <b>.zip</b> contendo (shp, dbf, shx, prj) ou selecione os arquivos individuais juntos.<br>
         • A tolerância de <b>0.0001</b> é ideal para preservar detalhes de manchas de inundação.<br>
-        • Certifique-se de que o Shapefile não possui geometrias corrompidas antes do upload.
-        • Criado por Rebeca Diniz Moura - rebeca.moura@samprojetos.com.
+        • Certifique-se de que o Shapefile não possui geometrias corrompidas antes do upload.<br>
+        • Criado por Rebeca Diniz Moura - rebeca.moura@samprojetos.com.<br>
         
     </div>
     """, unsafe_allow_html=True)
